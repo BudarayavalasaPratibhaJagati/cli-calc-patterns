@@ -6,3 +6,6 @@ python -m app.calculator_repl
 
 ## Test
 pytest --cov=app tests/
+
+![CI](https://github.com/BudarayavalasaPratibhaJagati/cli-calc-patterns/actions/workflows/python-app.yml/badge.svg)
+
